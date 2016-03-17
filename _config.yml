@@ -2,12 +2,13 @@ name: tastemaker
 favicon: null
 layout_spectrum: 0.8924798413645476
 typography_spectrum: 0.3021657792851329
+title: tastemaker
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-75212127-1
   facebook: null
   twitter: null
 opengraph:
